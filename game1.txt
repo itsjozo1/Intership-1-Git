@@ -1,5 +1,5 @@
-Roko ima x pobjeda i y poraza!
-Toni ima z pobjeda i n poraza!
+Roko ima 1 pobjeda i y poraza!
+Toni ima z pobjeda i 1 poraza!
 
 X X X
 . O .
