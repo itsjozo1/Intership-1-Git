@@ -2,5 +2,5 @@ Roko ima 1 pobjeda i 1 poraza!
 Toni ima 1 pobjeda i 1 poraza!
 
 O X O
-. X O
+O X O
 X X .
