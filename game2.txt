@@ -1,5 +1,5 @@
-Roko ima 1 pobjeda i 1 poraza!
-Toni ima 1 pobjeda i 1 poraza!
+Roko ima 2 pobjeda i 1 poraza!
+Toni ima 1 pobjeda i 2 poraza!
 
 O X O
 O X O
